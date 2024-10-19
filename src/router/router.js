@@ -1,11 +1,11 @@
-import {useData} from "../composables/data.js"
+import { useData } from "../composables/data.js"
 import RouterView from "../vue/core/RouterView.vue"
-import {createRouter, createWebHistory} from "vue-router"
+import { createRouter, createWebHistory } from "vue-router"
 
 export function createAppRouter() {
     const data = useData()
     const sections = data.getSections()
-    const homeSection = sections[0] || {id: 'home'}
+    const homeSection = sections[0] || { id: 'home' }
 
     /** Create Home **/
     const routeList = [{
@@ -15,7 +15,7 @@ export function createAppRouter() {
     }]
 
     /** Create Section Routes **/
-    for(let i = 1 ; i < sections.length ; i++) {
+    for (let i = 1; i < sections.length; i++) {
         let sectionId = sections[i].id
 
         routeList.push({
@@ -32,7 +32,7 @@ export function createAppRouter() {
     })
 
     return createRouter({
-        history: createWebHistory(import.meta.env.BASE_URL),
+        history: createWebHistory('/knowanas/'), 
         routes: routeList
     })
 }
