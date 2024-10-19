@@ -29,6 +29,7 @@
             }
         },
 
+
         {
             "id": "languages",
             "type": "list",
@@ -46,145 +47,121 @@
     "items": {
         "abilities": [
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/java.png",
                 "faIcon": "fas fa-mobile-alt",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Responsive Layouts",
-                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+                        "title": "Java"
                     },
                     "es": {
-                        "title": "Diseños Responsivos",
-                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
+                        "title": "Java"
                     },
                     "fr": {
-                        "title": "Mises en Page Réactives",
-                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
+                        "title": "Java"
                     },
                     "zh": {
-                        "title": "响应式布局",
-                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
+                        "title": "Java"
                     }
                 }
             },
 
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/spring-boot.png",
                 "faIcon": "fas fa-paint-roller",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
-                    },
+                        "title": "Spring Boot"                   
+                     },
                     "es": {
-                        "title": "Principios de Diseño",
-                        "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
+                        "title": "Spring Boot"          
                     },
                     "fr": {
-                        "title": "Principes de Conception",
-                        "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement."
+                        "title": "Spring Boot"          
                     },
                     "zh": {
-                        "title": "设计原则",
-                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                        "title": "Spring Boot"          
                     }
                 }
             },
 
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/javascript.png",
                 "faIcon": "fas fa-vector-square",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
-                    },
+                        "title": "JavaScript"                  
+                      },
                     "es": {
-                        "title": "Creación de Wireframes",
-                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
-                    },
+                        "title": "JavaScript"                  
+                    },   
                     "fr": {
-                        "title": "Création de Wireframes",
-                        "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
+                        "title": "JavaScript"                  
                     },
                     "zh": {
-                        "title": "线框图设计",
-                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                        "title": "JavaScript"                  
                     }
                 }
             },
 
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/vuejs.png",
                 "faIcon": "fas fa-check-double",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Usability Testing",
-                        "description": "Enhancing user experiences through comprehensive usability testing."
+                        "title": "Vue.js"
                     },
                     "es": {
-                        "title": "Pruebas de Usabilidad",
-                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                        "title": "Vue.js"
                     },
                     "fr": {
-                        "title": "Tests d'Utilisabilité",
-                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité."
+                        "title": "Vue.js"
                     },
                     "zh": {
-                        "title": "可用性测试",
-                        "description": "通过全面的可用性测试提升用户体验。"
+                        "title": "Vue.js"
                     }
                 }
             },
 
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/mongodb.png",
                 "faIcon": "fas fa-expand-arrows-alt",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Interaction Design",
-                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
-                    },
+                        "title": "MongoDB"                   
+                     },
                     "es": {
-                        "title": "Diseño de Interacción",
-                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
+                        "title": "MongoDB"                    
                     },
                     "fr": {
-                        "title": "Design d'Interaction",
-                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
+                        "title": "MongoDB"               
                     },
                     "zh": {
-                        "title": "交互设计",
-                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
+                        "title": "MongoDB"                  
                     }
                 }
             },
 
             {
-                "imageIconUrl": null,
+                "imageIconUrl": "images/skills/mysql.png",
                 "faIcon": "fas fa-laptop-code",
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Prototyping",
-                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement."
-                    },
+                        "title": "MySQL"
+                     },
                     "es": {
-                        "title": "Prototipado",
-                        "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento."
+                        "title": "MySQL"
                     },
                     "fr": {
-                        "title": "Prototypage",
-                        "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages."
+                        "title": "MySQL"
                     },
                     "zh": {
-                        "title": "原型设计",
-                        "description": "熟练将概念转化为交互式原型，以进行测试和完善。"
+                        "title": "MySQL"
                     }
                 }
             }
@@ -268,26 +245,26 @@
             {
                 "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
-                "value": 100,
-                "locales": {
-                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
-                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
-                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
-                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
-                }
-            },
-
-            {
-                "imageIconUrl": "images/flags/pakistan.jpg",
-                "faIcon": null,
                 "value": 90,
-                "locales": {
-                    "en": {"title": "Urdu", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
-                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
-                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
-                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
+               "locales": {
+                    "en": {
+                        "title": "English",
+                        "description": "Fluent speaker with excellent communication and writing skills."
+                    },
+                    "es": {
+                        "title": "Inglés",
+                        "description": "Hablante fluido con excelentes habilidades de comunicación y escritura."
+                    },
+                    "fr": {
+                        "title": "Anglais",
+                        "description": "Locuteur fluent avec d'excellentes compétences en communication et en écriture."
+                    },
+                    "zh": {
+                        "title": "英语",
+                        "description": "流利的母语人士，具有出色的沟通和写作能力。"
+                    }
                 }
-            }
+            }           
         ],
 
         "extra": [

@@ -30,7 +30,13 @@
             "faIcon": "fa-solid fa-address-card",
             "cover": true
         },
-
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase"
+         },
         {
             "id": "education",
             "categoryId": "background",
@@ -38,37 +44,12 @@
             "jsonPath": "data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
-
         {
             "id": "skills",
             "categoryId": "showcase",
             "component": "InfoSection",
             "jsonPath": "data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
-        },
-
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
-
-        {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "component": "GallerySection",
-            "jsonPath": "data/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open"
-        },
-
-        {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "component": "ThreadsSection",
-            "jsonPath": "data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
         }
     ]
 }
