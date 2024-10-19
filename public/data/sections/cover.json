@@ -1,0 +1,41 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Hi, I'm <span class='text-primary'>Anas👋</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "With 3 years of experience as a <span class='text-primary'>Full Stack Developer</span>, primarily skilled in <span class='text-primary'>Java, Springboot & JavaScript.</span>"
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Con más de 3 años de experiencia como desarrollador Full Stack, tengo habilidades en Java, Spring Boot y JavaScript."
+        },
+
+        "fr": {
+            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+            "welcomeShort": "Bienvenue!",
+            "bio": "Avec plus de 3 ans d'expérience en tant que développeur Full Stack, je maîtrise Java, Spring Boot et JavaScript."
+        },
+
+        "zh": {
+            "welcome": "欢迎来到我的<span class='text-primary'>简历</span>！",
+            "welcomeShort": "欢迎!",
+            "bio": "作为一名拥有3年以上经验的全栈开发者，我熟练使用Java、Spring Boot和JavaScript。"
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}",
+            "@link{profile.contact.resume}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}

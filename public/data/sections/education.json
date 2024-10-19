@@ -1,0 +1,79 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        },
+
+        "fr": {
+            "title": "Parcours <span class='text-primary'>Éducatif</span>",
+            "description": "Un aperçu de mon parcours académique et de mes réalisations."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>教育</span> 背景",
+            "description": "一瞥我的学术轨迹和成就。"
+        }
+    },
+
+    "items": [
+        {
+            "id": "masters_paris",
+            "place": "@link{places.pgc}",
+            "period": ["2016/04", "2018/05"],
+
+            "locales": {
+                "en": {
+                    "title": "Intermediate of Computer Science",
+                    "description": "Completed an intensive college program focusing on core computer science principles."
+                },
+                "es": {
+                    "title": "Intermedio en Ciencias de la Computación",
+                    "description": "Completó un programa intensivo centrado en los principios fundamentales de la ciencia de la computación."
+                },
+                "fr": {
+                    "title": "Intermédiaire en Informatique",
+                    "description": "A achevé un programme intensif axé sur les principes fondamentaux de l'informatique."
+                },
+                "zh": {
+                    "title": "计算机科学中级",
+                    "description": "完成了一项密集的大学课程，重点学习计算机科学的核心原则。"
+                }
+            }
+
+        },
+
+        {
+            "id": "bachelor_fast",
+            "place": "@link{places.fast}",
+            "period": ["2018/08", "2022/06"],
+
+            "locales": {
+                "en": {
+                    "title": "Bachelor's in Computer Science",
+                    "description": "Graduated with a solid foundation in computer science while specializing in web development."
+                },
+
+                "es": {
+                    "title": "Licenciatura en Ciencias de la Computación",
+                    "description": "Graduado con una sólida formación en ciencias de la computación, especializándose en desarrollo web."
+                },
+
+                "fr": {
+                    "title": "Licence en Informatique",
+                    "description": "Diplômé avec une solide formation en informatique, spécialisé dans le développement web."
+                },
+
+                "zh": {
+                    "title": "计算机科学学士",
+                    "description": "毕业时拥有扎实的计算机科学基础，专注于网络开发。"
+                }
+            }
+        }
+    ]
+}

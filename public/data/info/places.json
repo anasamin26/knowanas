@@ -1,0 +1,79 @@
+{
+    "upwork": {
+        "logoUrl": "images/places/upwork.svg",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Upwork"}
+        }
+    },
+
+    "i2c": {
+        "logoUrl": "images/places/i2c.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "i2c Inc."}
+        }
+    },
+
+    "kendis": {
+        "logoUrl": "images/places/logo-kendis.avif",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Kendis"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "fast": {
+        "logoUrl": "images/places/logo-fast.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "National University of Computer & Emerging Sciences"},
+            "es": {"name": "Universidad Nacional de Ciencias de la Computación y Nuevas Tecnologías"},
+            "fr": {"name": "Université Nationale des Sciences Informatiques et des Nouvelles Technologies"},
+            "zh": {"name": "国家计算机与新兴科学大学"}
+        }        
+    },
+
+    "pgc": {
+        "logoUrl": "images/places/logo-pgc.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Punjab College of Information & Technology"},
+            "es": {"name": "Colegio de Información y Tecnología de Punjab"},
+            "fr": {"name": "Collège de l'Information et de la Technologie du Punjab"},
+            "zh": {"name": "旁遮普信息与技术学院"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/logo-udacity.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Udacity"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    }
+}

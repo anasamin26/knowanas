@@ -1,0 +1,97 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        },
+
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>专业</span> 经验",
+            "description": "了解我的工作经验和职业之旅。"
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.upwork}",
+            "period": ["2021/06", "2022/05"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","React.js", "JavaScript", "REST APIS", "MongoDB","MySQL"]
+                },
+                "es": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","React.js", "JavaScript", "REST APIS", "MongoDB","MySQL"]
+                },
+                "fr": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","React.js", "JavaScript", "REST APIS", "MongoDB","MySQL"]
+                },
+                "zh": {
+                    "title": "软件工程师",
+                    "tags": ["Java", "Springboot","React.js", "JavaScript", "REST APIS", "MongoDB","MySQL"]
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.i2c}",
+            "period": ["2022/07", "2024/01"],
+            "locales": {
+                "en": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","Vue.js","Spring", "Struts", "Struts2","MVC","JavaScript", "MySQL"]
+                },
+                "es": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","Vue.js","Spring", "Struts", "Struts2","MVC","JavaScript", "MySQL"]
+                },
+                "fr": {
+                    "title": "Software Engineer",
+                    "tags": ["Java", "Springboot","Vue.js","Spring", "Struts", "Struts2","MVC","JavaScript", "MySQL"]
+                },
+                "zh": {
+                    "title": "软件工程师",
+                    "tags": ["Java", "Springboot","Vue.js","Spring", "Struts", "Struts2","MVC","JavaScript", "MySQL"]
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.kendis}",
+            "period": ["2024/01", "now"],
+            "locales": {
+                "en": {
+                    "title": "Full Stack Developer",
+                    "tags": ["Java", "Springboot", "Microservices", "Vue.js", "MongoDB", "REST APIs"]
+                },
+                "es": {
+                    "title": "Full Stack Developer",
+                    "tags": ["Java", "Springboot", "Microservices", "Vue.js", "MongoDB", "REST APIs"]
+                },
+                "fr": {
+                    "title": "Full Stack Developer",
+                    "tags": ["Java", "Springboot", "Microservices", "Vue.js", "MongoDB", "REST APIs"]
+                },
+                "zh": {
+                    "title": "全栈开发工程师",
+                    "tags": ["Java", "Springboot", "Microservices", "Vue.js", "MongoDB", "REST APIs"]
+                }
+            }
+        }
+    ]
+}

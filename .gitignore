@@ -1,0 +1,16 @@
+
+knowanas/
+.DS_Store
+/node_modules
+screenshots/color-changing-preview.png
+screenshots/mobile-previews.png
+screenshots/desktop-previews.png
+public/images/places/pgc-loog.jpg
+dist/images/places/logo-adobe.png
+dist/images/places/logo-apple.png
+dist/images/places/logo-coursera.png
+dist/images/places/logo-harvard.png
+dist/images/places/logo-paris-university.png
+dist/images/places/logo-udacity.png
+dist/images/places/logo-ux-studio.png
+/public/images/portfolio

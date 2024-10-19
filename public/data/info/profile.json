@@ -1,0 +1,74 @@
+{
+    "name": "Muhammad Anas",
+    "profilePictureUrl": "images/pictures/anas.jpeg",
+
+    "locales": {
+        "en": {
+            "role": "Full Stack Developer"
+        },
+
+        "es": {
+            "role": "Desarrollador Full Stack"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/anasamin26'>Muhammad Anas</a></strong>",
+            "role": "Développeur Full Stack"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/anasamin26'>Muhammad Anas</a></strong>",
+            "role": "全栈开发者"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Bahria Town, Lahore, PK 53000",
+            "valueShort": "Lahore, PK 53000",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "muhammad100041@gmail.com",
+            "valueShort": "muhammad100041@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:muhammad100041@gmail.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@anas",
+            "valueShort": "@anas",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/Ken-Muhammad-Anas"
+        },
+
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@anas-amin",
+            "valueShort": "@anas-amin",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/anas-amin"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+923228046811",
+            "valueShort": "+923228046811",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+923228046811"
+        },
+        "resume": {
+            "id": "resume",
+            "value": "Resume",
+            "valueShort": "Resume",
+            "faIcon": "fa-solid fal fa-file-alt",
+            "href":"/knowanas/files/cv.pdf"
+        }
+    }
+}
