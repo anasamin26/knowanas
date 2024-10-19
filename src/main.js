@@ -11,7 +11,7 @@ import {createApp} from "vue"
 import App from '../src/vue/core/App.vue'
 
 const data = useData()
-
+console.log("Inside main.js");
 data.fetchEssentials().then(r => {
     const language = useLanguage()
     language.init(data.getSettings()['supportedLanguages'])
